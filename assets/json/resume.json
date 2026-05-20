@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Jan Quenzel",
+    "label": "PostDoc",
+    "image": "",
+    "email": "jquenzel@robots.ox.ac.uk",
+    "phone": "",
+    "url": "https://janquenzel.github.io/",
+    "summary": "robotics researcher",
+    "location": {
+      "address": "23 Banburry Rd",
+      "postalCode": "OX2 6NN",
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": "Oxfordshire"
+    },
+  },
+  "work": [
+    {
+      "name": "Dynamic Robot Systems Group, Oxford Robotics Institute, Department of Engineering Science, University of Oxford",
+      "position": "Postdoctoral Researcher",
+      "url": "https://ais.uni-bonn.de",
+      "startDate": "2026-05-11",
+      "endDate": "present",
+      "summary": "Researching robust real-time multi-modal state estimation for UGVs and scene reconstruction",
+      "highlights": ["LiDAR-Inertial-Odometry"]
+    },
+    {
+      "name": "Autonomous Intelligent Systems Group, Computer Science VI, University of Bonn",
+      "position": "Research Scientist",
+      "url": "https://ais.uni-bonn.de",
+      "startDate": "2015-08-01",
+      "endDate": "2026-05-10",
+      "summary": "Researching real-time multi-modal state estimation for UAVs and scene reconstruction, UAV Safety Operator",
+      "highlights": ["LiDAR-Inertial-Odometry"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bonn, Bonn, Germany",
+      "location": "Bonn, Germany",
+      "url": "https://www.uni-bonn.de/",
+      "area": "Computer Science",
+      "studyType": "Dr. rer. nat",
+      "startDate": "2015-08-01",
+      "endDate": "2025-11-07",
+    },
+    {
+      "institution": "University of Lübeck",
+      "location": "Lübeck, Germany",
+      "url": "https://www.uni-luebeck.de/",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2012-01-01",
+      "endDate": "2015-08-01",
+    },
+    {
+      "institution": "HAW Hamburg, University of Applied Sciences",
+      "location": "Hamburg, Germany",
+      "url": "https://www.haw-hamburg.de/",
+      "area": "Computer Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2009-09-01",
+      "endDate": "2012-07-31",
+    },
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+}

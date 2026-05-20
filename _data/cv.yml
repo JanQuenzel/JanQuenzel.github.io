@@ -1,0 +1,70 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jan Quenzel
+    - name: Languages
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Dr. rer. nat.
+      institution: University of Bonn, Bonn, Germany
+      year: 2025
+      description: 
+        - "Doctoral Thesis: Efficient Real-Time Calibration and Odometry for Dense Multi-Modal Mapping with UAVs"
+        - defended on 7th Nov. 2025
+    - title: Master of Science (M.Sc.)
+      institution: Universität zu Lübeck, Lübeck, Germany
+      year: 2015
+      description: 
+        - "Thesis: Sensor calibration and fusion of distributed laser range finder for object tracking"
+    - title: Bachelor of Science (B.Sc.)
+      institution: HAW Hamburg, University of Applied Sciences, Hamburg, Germany
+      year: 2012
+      description: 
+        - "Thesis: Analysis of range-finder data for characterization of egomotion in tunnels"
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: PostDoc Researcher
+      institution: Dynamic Robot Systems Group, Oxford Robotics Institute, University of Oxford
+      year: 2026 - Present
+    - title: Researcher
+      institution: Autonomous Intelligent Systems Group, Computer Science VI, University of Bonn
+      year: 2015 - 2026
+    #- title: 
+    #  institution: 
+      #description:
+        #- Description 1.
+        #- Description 2.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+
+#- title: Open Source Projects
+  #type: time_table
+  #contents:
+    #- title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      #year: 2015-now
+      #description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+#- title: Academic Interests
+  #type: nested_list
+  #contents:
+    #- title: Topic 1.
+      #items:
+        #- Description 1.
+        #- Description 2.
+    #- title: Topic 2.
+      #items:
+        #- Description 1.
+        #- Description 2.
+
+#- title: Other Interests
+  #type: list
+  #contents:
+    #- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
