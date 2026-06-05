@@ -1,0 +1,151 @@
+metadata:
+  last_updated: '2026-06-05'
+papers:
+  9YE5q3gAAAAJ:0EnyYjriUFMC:
+    citations: 4
+    title: Team NimbRo's UGV Solution for Autonomous Wall Building and Fire Fighting at MBZIRC 2020
+    year: '2021'
+  9YE5q3gAAAAJ:2osOgNQ5qMEC:
+    citations: 32
+    title: Collaborative object picking and delivery with a team of micro aerial vehicles at mbzirc
+    year: '2017'
+  9YE5q3gAAAAJ:3fE2CSJIrl8C:
+    citations: 3
+    title: 'SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences. IEEE'
+    year: '2019'
+  9YE5q3gAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Remote Autonomy for Multiple Small Lowcost UAVs in GNSS-denied Search and Rescue Operations
+    year: '2025'
+  9YE5q3gAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: 'Team NimbRo at MBZIRC 2017: Fast Landing on a Moving Target and Treasure Hunting with a Team of MAVs'
+    year: Unknown Year
+  9YE5q3gAAAAJ:5nxA0vEk-isC:
+    citations: 8
+    title: 'Beyond Photometric Consistency: Gradient-based Dissimilarity for Improving Visual Odometry and Stereo Matching'
+    year: '2020'
+  9YE5q3gAAAAJ:8k81kl-MbHgC:
+    citations: 227
+    title: 'Towards 3D LiDAR-based semantic scene understanding of 3D point cloud sequences: The SemanticKITTI Dataset'
+    year: '2021'
+  9YE5q3gAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Aerial Assistance System for Automated Firefighting during Turntable Ladder Operations
+    year: '2025'
+  9YE5q3gAAAAJ:9yKSN-GCB0IC:
+    citations: 10
+    title: Online Depth Calibration for RGB-D Cameras using Visual SLAM
+    year: '2017'
+  9YE5q3gAAAAJ:IjCSPb-OGe4C:
+    citations: 138
+    title: Fast Autonomous Flight in Warehouses for Inventory Applications
+    year: '2018'
+  9YE5q3gAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: 'LatticeNet: Fast Spatio-Temporal Point Cloud Segmentation Using Permutohedral Lattices'
+    year: '2021'
+  9YE5q3gAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Supplemental Material: SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences'
+    year: Unknown Year
+  9YE5q3gAAAAJ:M3ejUd6NZC8C:
+    citations: 40
+    title: Real-time multi-modal semantic fusion on unmanned aerial vehicles with label propagation for cross-domain adaptation
+    year: '2023'
+  9YE5q3gAAAAJ:MXK_kJrjxJIC:
+    citations: 29
+    title: Real-time multi-modal semantic fusion on unmanned aerial vehicles
+    year: '2021'
+  9YE5q3gAAAAJ:ULOm3_A8WrAC:
+    citations: 47
+    title: 'German Rescue Robotics Center (DRZ): A Holistic Approach for Robotic Systems Assisting in Emergency Response'
+    year: '2021'
+  9YE5q3gAAAAJ:UeHWp8X0CEIC:
+    citations: 3
+    title: Keyframe-based Photometric Online Calibration and Color Correction
+    year: '2018'
+  9YE5q3gAAAAJ:UebtZRa9Y70C:
+    citations: 60
+    title: Real-time multi-adaptive-resolution-surfel 6D LiDAR odometry using continuous-time trajectory optimization
+    year: '2021'
+  9YE5q3gAAAAJ:W7OEmFMy1HYC:
+    citations: 33
+    title: A dataset for semantic segmentation of point cloud sequences
+    year: '2019'
+  9YE5q3gAAAAJ:WF5omc3nYNoC:
+    citations: 5
+    title: Reconstruction of Textured Meshes for Fire and Heat Source Detection
+    year: '2019'
+  9YE5q3gAAAAJ:Wp0gIr-vW9MC:
+    citations: 2
+    title: 'LIO-MARS: Non-uniform Continuous-time Trajectories for Real-time LiDAR-Inertial-Odometry'
+    year: '2025'
+  9YE5q3gAAAAJ:YOwf2qJgpHMC:
+    citations: 8
+    title: 'Target chase, wall building, and fire fighting: autonomous UAVs of team NimbRo at MBZIRC 2020'
+    year: '2022'
+  9YE5q3gAAAAJ:YsMSGLbcyi4C:
+    citations: 22
+    title: Detection and tracking of small objects in sparse 3D laser range data
+    year: '2019'
+  9YE5q3gAAAAJ:Zph67rFs4hoC:
+    citations: 55
+    title: 'LatticeNet: fast spatio-temporal point cloud segmentation using permutohedral lattices'
+    year: '2022'
+  9YE5q3gAAAAJ:_FxGoFyzp5QC:
+    citations: 3252
+    title: 'SemanticKITTI: A dataset for semantic scene understanding of lidar sequences'
+    year: '2019'
+  9YE5q3gAAAAJ:_kc_bZDykSQC:
+    citations: 3
+    title: 'Autonomous wall-building and firefighting: Team NimbRo''s UGV solution for MBZIRC 2020'
+    year: '2022'
+  9YE5q3gAAAAJ:aqlVkmm33-oC:
+    citations: 2
+    title: LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps
+    year: '2024'
+  9YE5q3gAAAAJ:d1gkVwhDpl0C:
+    citations: 26
+    title: 'ChimneySpector: Autonomous MAV-based indoor chimney inspection employing 3D laser localization and textured surface reconstruction'
+    year: '2017'
+  9YE5q3gAAAAJ:eQOLeE2rZwMC:
+    citations: 28
+    title: Semi-supervised semantic mapping through label propagation with semantic texture meshes
+    year: '2020'
+  9YE5q3gAAAAJ:hqOjcs7Dif8C:
+    citations: 20
+    title: Autonomous flight in unknown GNSS-denied environments for disaster examination
+    year: '2021'
+  9YE5q3gAAAAJ:kNdYIx-mwKoC:
+    citations: 49
+    title: Autonomous Fire Fighting with a UAV-UGV Team at MBZIRC 2020
+    year: '2021'
+  9YE5q3gAAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: Efficient Real-Time Calibration and Odometry for Dense Multi-Modal Mapping with UAVs
+    year: '2025'
+  9YE5q3gAAAAJ:qjMakFHDy7sC:
+    citations: 50
+    title: Autonomous MAV-based indoor chimney inspection with 3D laser localization and textured surface reconstruction
+    year: '2019'
+  9YE5q3gAAAAJ:qxL8FJ1GzNcC:
+    citations: 45
+    title: "Lessons from robot\u2010assisted disaster response deployments by the German Rescue Robotics Center task force"
+    year: '2024'
+  9YE5q3gAAAAJ:u-x6o8ySG0sC:
+    citations: 48
+    title: Efficient multi-camera visual-inertial SLAM for micro aerial vehicles
+    year: '2016'
+  9YE5q3gAAAAJ:u5HHmVD_uO8C:
+    citations: 19
+    title: Robust extrinsic calibration of multiple stationary laser range finders
+    year: '2016'
+  9YE5q3gAAAAJ:ufrVoPGSRksC:
+    citations: 136
+    title: 'LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices'
+    year: '2019'
+  9YE5q3gAAAAJ:zYLM7Y9cAGgC:
+    citations: 58
+    title: 'Team NimbRo at MBZIRC 2017: Fast landing on a moving target and treasure hunting with a team of micro aerial vehicles'
+    year: '2019'
