@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-08'
 papers:
   9YE5q3gAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -26,7 +26,7 @@ papers:
     title: 'Beyond Photometric Consistency: Gradient-based Dissimilarity for Improving Visual Odometry and Stereo Matching'
     year: '2020'
   9YE5q3gAAAAJ:8k81kl-MbHgC:
-    citations: 227
+    citations: 228
     title: 'Towards 3D LiDAR-based semantic scene understanding of 3D point cloud sequences: The SemanticKITTI Dataset'
     year: '2021'
   9YE5q3gAAAAJ:9ZlFYXVOiuMC:
@@ -94,7 +94,7 @@ papers:
     title: 'LatticeNet: fast spatio-temporal point cloud segmentation using permutohedral lattices'
     year: '2022'
   9YE5q3gAAAAJ:_FxGoFyzp5QC:
-    citations: 3252
+    citations: 3262
     title: 'SemanticKITTI: A dataset for semantic scene understanding of lidar sequences'
     year: '2019'
   9YE5q3gAAAAJ:_kc_bZDykSQC:
@@ -146,6 +146,6 @@ papers:
     title: 'LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices'
     year: '2019'
   9YE5q3gAAAAJ:zYLM7Y9cAGgC:
-    citations: 58
+    citations: 59
     title: 'Team NimbRo at MBZIRC 2017: Fast landing on a moving target and treasure hunting with a team of micro aerial vehicles'
     year: '2019'
