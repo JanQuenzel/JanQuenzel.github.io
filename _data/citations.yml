@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   9YE5q3gAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -94,7 +94,7 @@ papers:
     title: 'LatticeNet: fast spatio-temporal point cloud segmentation using permutohedral lattices'
     year: '2022'
   9YE5q3gAAAAJ:_FxGoFyzp5QC:
-    citations: 3262
+    citations: 3270
     title: 'SemanticKITTI: A dataset for semantic scene understanding of lidar sequences'
     year: '2019'
   9YE5q3gAAAAJ:_kc_bZDykSQC:
