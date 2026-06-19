@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-19'
 papers:
   9YE5q3gAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -26,7 +26,7 @@ papers:
     title: 'Beyond Photometric Consistency: Gradient-based Dissimilarity for Improving Visual Odometry and Stereo Matching'
     year: '2020'
   9YE5q3gAAAAJ:8k81kl-MbHgC:
-    citations: 228
+    citations: 229
     title: 'Towards 3D LiDAR-based semantic scene understanding of 3D point cloud sequences: The SemanticKITTI Dataset'
     year: '2021'
   9YE5q3gAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Supplemental Material: SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences'
     year: Unknown Year
   9YE5q3gAAAAJ:M3ejUd6NZC8C:
-    citations: 40
+    citations: 41
     title: Real-time multi-modal semantic fusion on unmanned aerial vehicles with label propagation for cross-domain adaptation
     year: '2023'
   9YE5q3gAAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: 'LatticeNet: fast spatio-temporal point cloud segmentation using permutohedral lattices'
     year: '2022'
   9YE5q3gAAAAJ:_FxGoFyzp5QC:
-    citations: 3270
+    citations: 3280
     title: 'SemanticKITTI: A dataset for semantic scene understanding of lidar sequences'
     year: '2019'
   9YE5q3gAAAAJ:_kc_bZDykSQC:
