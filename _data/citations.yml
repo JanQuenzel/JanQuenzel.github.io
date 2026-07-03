@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-03'
 papers:
   9YE5q3gAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: Online Depth Calibration for RGB-D Cameras using Visual SLAM
     year: '2017'
   9YE5q3gAAAAJ:IjCSPb-OGe4C:
-    citations: 138
+    citations: 139
     title: Fast Autonomous Flight in Warehouses for Inventory Applications
     year: '2018'
   9YE5q3gAAAAJ:KlAtU1dfN6UC:
@@ -54,7 +54,7 @@ papers:
     title: Real-time multi-modal semantic fusion on unmanned aerial vehicles with label propagation for cross-domain adaptation
     year: '2023'
   9YE5q3gAAAAJ:MXK_kJrjxJIC:
-    citations: 29
+    citations: 28
     title: Real-time multi-modal semantic fusion on unmanned aerial vehicles
     year: '2021'
   9YE5q3gAAAAJ:ULOm3_A8WrAC:
@@ -90,11 +90,11 @@ papers:
     title: Detection and tracking of small objects in sparse 3D laser range data
     year: '2019'
   9YE5q3gAAAAJ:Zph67rFs4hoC:
-    citations: 55
+    citations: 56
     title: 'LatticeNet: fast spatio-temporal point cloud segmentation using permutohedral lattices'
     year: '2022'
   9YE5q3gAAAAJ:_FxGoFyzp5QC:
-    citations: 3289
+    citations: 3310
     title: 'SemanticKITTI: A dataset for semantic scene understanding of lidar sequences'
     year: '2019'
   9YE5q3gAAAAJ:_kc_bZDykSQC:
@@ -118,7 +118,7 @@ papers:
     title: Autonomous flight in unknown GNSS-denied environments for disaster examination
     year: '2021'
   9YE5q3gAAAAJ:kNdYIx-mwKoC:
-    citations: 49
+    citations: 50
     title: Autonomous Fire Fighting with a UAV-UGV Team at MBZIRC 2020
     year: '2021'
   9YE5q3gAAAAJ:mVmsd5A6BfQC:
@@ -126,11 +126,11 @@ papers:
     title: Efficient Real-Time Calibration and Odometry for Dense Multi-Modal Mapping with UAVs
     year: '2025'
   9YE5q3gAAAAJ:qjMakFHDy7sC:
-    citations: 50
+    citations: 51
     title: Autonomous MAV-based indoor chimney inspection with 3D laser localization and textured surface reconstruction
     year: '2019'
   9YE5q3gAAAAJ:qxL8FJ1GzNcC:
-    citations: 45
+    citations: 46
     title: "Lessons from robot\u2010assisted disaster response deployments by the German Rescue Robotics Center task force"
     year: '2024'
   9YE5q3gAAAAJ:u-x6o8ySG0sC:
@@ -142,7 +142,7 @@ papers:
     title: Robust extrinsic calibration of multiple stationary laser range finders
     year: '2016'
   9YE5q3gAAAAJ:ufrVoPGSRksC:
-    citations: 136
+    citations: 137
     title: 'LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices'
     year: '2019'
   9YE5q3gAAAAJ:zYLM7Y9cAGgC:
